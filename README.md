@@ -8,7 +8,15 @@ Sleek aesthetics of the Arc combined with URL bar an top
 - **Top-Placed URL Bar:** Quick and intuitive navigation for efficiency.
 - **Streamlined Interface:** Hides unnecessary elements for a clutter-free experience.
 - **Custom Icons:** Material Design Icons are included in this repository
-
+- 
+## Known Issues
+1. **Inconsistent Styling:**
+   - Description: The styling exhibits inconsistencies, particularly when using themes like Adwaita and TokyoNight.
+   - Status: Unresolved
+2. **URL Identity Border Setting:**
+   - Description: The border setting for URL identity in the settings does not take effect.
+   - Status: Unresolved
+Feel free to start an issue or contribute to resolving these problems. Your input is valuable, and I'll work on addressing these in my free time. Contributions are welcome!
 
 > [!CAUTION]
 > It works only in dark theme
