@@ -8,7 +8,9 @@ Sleek aesthetics of the Arc combined with URL bar an top
 - **Top-Placed URL Bar:** Quick and intuitive navigation for efficiency.
 - **Streamlined Interface:** Hides unnecessary elements for a clutter-free experience.
 - **Custom Icons:** Material Design Icons are included in this repository
-- 
+> [!CAUTION]
+> It works only in dark theme
+>
 ## Known Issues
 1. **Inconsistent Styling:**
    - Description: The styling exhibits inconsistencies, particularly when using themes like Adwaita and TokyoNight.
@@ -19,9 +21,9 @@ Sleek aesthetics of the Arc combined with URL bar an top
         
 Feel free to start an issue or contribute to resolving these problems. Your input is valuable, and I'll work on addressing these in my free time. Contributions are welcome!
 
-> [!CAUTION]
-> It works only in dark theme
->
+##TODO
+- SVG Logo
+- Consistent styling
 
 ## Screenshots
 Default           |  Themed
@@ -35,7 +37,9 @@ Default           |  Themed
 > [!IMPORTANT]
 > I only tested it on my Linux machine, I cannot guarantee that it will work on Windows or MacOS
 > 
-
+### Before you Start
+- Install Tree Style Tab extension
+  
 ### Step 1: Download FoxFlow
 
 - Click on the "Code" button on the GitHub repository.
