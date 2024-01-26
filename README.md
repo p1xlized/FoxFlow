@@ -12,7 +12,8 @@ Sleek aesthetics of the Arc combined with URL bar an top
 
 > [!CAUTION]
 > It works only in dark theme
-> 
+>
+
 ## Screenshots
 Default           |  Themed
 :-------------------------:|:-------------------------:
@@ -22,6 +23,9 @@ Default           |  Themed
 
 
 ## Installation Instructions
+> [!IMPORTANT]
+> I only tested it on my Linux machine, I cannot guarantee that it will work on Windows or MacOS
+> 
 
 ### Step 1: Download FoxFlow
 
