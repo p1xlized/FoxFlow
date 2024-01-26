@@ -3,6 +3,7 @@
 Default           |  Themed
 :-------------------------:|:-------------------------:
 ![](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/1.png )  |  ![](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/2.png)
+![](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/FoxFlow.gif)  |  ![](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/2.png)
 
 
 
