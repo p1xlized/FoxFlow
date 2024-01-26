@@ -1,8 +1,7 @@
 # FoxFlow - UserChrome Theme for Firefox
-Firefox theme with left-side sidebars and a top-placed URL bar for a sleek and organized browsing experience.
-
-![Alt Text]('https://imgur.com/a/ZdipAer')
-
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ## Installation Instructions
 
 ### Step 1: Download FoxFlow
