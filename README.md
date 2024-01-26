@@ -1,9 +1,9 @@
 # FoxFlow - UserChrome Theme for Firefox
-![alt text](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/FoxFlow.gif "Logo Title Text 1")
+
 Default           |  Themed
 :-------------------------:|:-------------------------:
 ![](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/1.png )  |  ![](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/2.png)
-![](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/FoxFlow.gif)  |  ![](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/2.png)
+![](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/FoxFlow.gif)  |  ![](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/gif2.gif)
 
 
 
