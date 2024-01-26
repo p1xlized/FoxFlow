@@ -1,5 +1,15 @@
 # FoxFlow - UserChrome Theme for Firefox
 
+Sleek aesthetics of the Arc combined with URL bar an top
+
+## Features:
+
+- **Sleek Aesthetics:** Inspired by the clean look of the Arc browser.
+- **Top-Placed URL Bar:** Quick and intuitive navigation for efficiency.
+- **Streamlined Interface:** Hides unnecessary elements for a clutter-free experience.
+- **Custom Icons:** Material Design Icons are included in this repository
+  
+## Screenshots
 Default           |  Themed
 :-------------------------:|:-------------------------:
 ![](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/1.png )  |  ![](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/2.png)
