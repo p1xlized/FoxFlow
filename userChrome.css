@@ -1,0 +1,109 @@
+/* Toolbar and Buttons */
+#back-button {
+  list-style-image: url("./icons/left.svg") !important;
+  filter: invert(100%) !important;
+  size: 4rem;
+  color: var(--toolbar-bgcolor);
+}
+
+#forward-button {
+  list-style-image: url("./icons/right.svg") !important;
+  filter: invert(100%) !important;
+}
+
+#reload-button {
+  list-style-image: url("./icons/reload.svg") !important;
+  filter: invert(100%) !important;
+}
+
+#PanelUI-menu-button { 
+  list-style-image: url("./icons/settings.svg") !important;
+  padding: 0px !important;
+  filter: invert(100%) !important;
+  align-self: center;
+}
+
+#unified-extensions-button { 
+  list-style-image: url("./icons/extensions.svg") !important;
+  padding: 0px !important;
+  filter: invert(100%) !important;
+  align-self: center;
+}
+
+#downloads-indicator-icon {
+  list-style-image: url("./icons/download.svg") !important;
+  padding: 0px !important;
+  filter: invert(100%) !important;
+  align-self: center;
+}
+
+/* URL Bar and Identity Box */
+#urlbar-background {
+  border-radius: 20px !important;
+}
+
+#identity-box {
+  border-radius: 20px !important;
+}
+
+#tracking-protection-icon-container {
+  border-radius: 20px !important;
+}
+
+/* Sidebar */
+#sidebar-box #sidebar-header {
+  display: none !important;
+}
+
+#sidebar-box {
+  padding-top: 5px;
+}
+
+#sidebar-splitter { 
+  display: none !important;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+#main-window[inFullscreen="true"] #sidebar-box,
+#main-window[inFullscreen="true"] #sidebar-box + splitter {
+  visibility: collapse;
+}
+
+/* Tab Styles */
+.tabbrowser-tab {
+  visibility: hidden;
+}
+
+#appcontent > #tabbrowser-tabbox > #tabbrowser-tabpanels > .deck-selected > .browserContainer > .browserStack > browser {
+  border-radius: 10px !important;
+  margin: 5px !important;
+}
+
+/* Toolbar Color */
+.titlebar-color {
+  background-color: var(--toolbar-bgcolor);
+}
+
+/* Additional Styling */
+#titlebar-spacer {
+  background-color: var(--chrome-secondary-background-color);
+}
+
+#titlebar-buttonbox-container {
+  background-color: var(--chrome-secondary-background-color);
+}
+
+/* Removing Default Elements */
+#nav-bar {
+  margin-top: -100px rem;
+  box-shadow: none !important;
+}
+
+#alltabs-button {
+  display: none !important;
+}
+
+#container-tab-button {
+  display: none !important;
+}
+
