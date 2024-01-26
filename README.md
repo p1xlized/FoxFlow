@@ -1,7 +1,7 @@
 # FoxFlow - UserChrome Theme for Firefox
 ![alt text](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/FoxFlow.gif "Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/p1xlized/FoxFlow/blob/main/Screenshots/1.png "Logo Title Text 1")
+\
 ## Installation Instructions
 
 ### Step 1: Download FoxFlow
