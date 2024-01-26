@@ -16,6 +16,7 @@ Sleek aesthetics of the Arc combined with URL bar an top
 2. **URL Identity Border Setting:**
    - Description: The border setting for URL identity in the settings does not take effect.
    - Status: Unresolved
+        
 Feel free to start an issue or contribute to resolving these problems. Your input is valuable, and I'll work on addressing these in my free time. Contributions are welcome!
 
 > [!CAUTION]
