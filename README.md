@@ -39,6 +39,7 @@ Default           |  Themed
 > 
 ### Before you Start
 - Install Tree Style Tab extension
+- Apply the Proton theme in the Tree Style Tab extension settings
   
 ### Step 1: Download FoxFlow
 
