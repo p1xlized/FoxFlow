@@ -8,7 +8,11 @@ Sleek aesthetics of the Arc combined with URL bar an top
 - **Top-Placed URL Bar:** Quick and intuitive navigation for efficiency.
 - **Streamlined Interface:** Hides unnecessary elements for a clutter-free experience.
 - **Custom Icons:** Material Design Icons are included in this repository
-  
+
+
+> [!CAUTION]
+> It works only in dark theme
+> 
 ## Screenshots
 Default           |  Themed
 :-------------------------:|:-------------------------:
